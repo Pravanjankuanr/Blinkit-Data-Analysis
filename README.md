@@ -14,7 +14,9 @@ This project demonstrates the implementation of a Library Management System usin
 1. **Importing Data into Power BI**: Import Blinkit data for analysis in Power BI.
 2. **Power Query Data Transformation**: Clean and transform data using Power Query to ensure accuracy and consistency.
 3. **Addressing Business Challenges and Problem Statements**: .
-4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
+4. **Create Measures**: .
+5. **Design and deploy interactive Cards and Charts**: Develop complex queries to analyze and retrieve specific data.
+6. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
 ## Project Structure
 
