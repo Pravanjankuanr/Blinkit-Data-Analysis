@@ -1,4 +1,4 @@
-# Library Management System using SQL Project --P2
+# Blinkit Data Analysis using Power BI
 
 ## Project Overview
 
