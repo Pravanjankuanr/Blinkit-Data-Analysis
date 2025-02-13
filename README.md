@@ -23,7 +23,7 @@ This project demonstrates the implementation of a Library Management System usin
 ### 1. Excel Data Import: We will import data into Power BI via Excel file upload for this project.
 ![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
 ### 2. Alternative Data Import Methods: Power BI supports various data import methods, including databases, files, cloud storage, web pages, etc. 
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![Import Data](Alternative-Import-Methods.png)
 
 ## Power Query Data Transformation
 ### 1. Uses of Power Query
