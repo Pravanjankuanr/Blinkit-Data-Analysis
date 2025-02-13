@@ -32,8 +32,13 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 3. Data Cleaning
 
-### 4. Data Cleaning after & Before
+### 4. Data Cleaning After & Before
 
+## Addressing Business Challenges and Problem Statements
+
+### 1. KPI's Requirements
+
+### 2. Charts Requirements
 
 - **Create**: Inserted sample records into the `books` table.
 - **Read**: Retrieved and displayed data from various tables.
