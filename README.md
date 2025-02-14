@@ -44,9 +44,9 @@ This project demonstrates the implementation of a Library Management System usin
 
 
 
-## Advanced SQL Operations
+## Advanced Power BI Features
 
-**Task 13: Identify Members with Overdue Books**  
+**Task 01: RSL(Row-level Security)**  
 Write a query to identify members with overdue books (assuming a 30-day return period). Display the member 's_id, member's name, book title, issue date, and days overdue.
 
 ```sql
@@ -75,7 +75,7 @@ ORDER BY 1
 ```
 
 
-**Task 14: Update Book Status on Return**  
+**Task 14: Schedule Refresh**  
 Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
 
 
