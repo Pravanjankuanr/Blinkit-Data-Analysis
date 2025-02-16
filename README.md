@@ -26,13 +26,12 @@ This project demonstrates the implementation of a Library Management System usin
 ![Import Data](Alternative-Import-Methods.png)
 
 ## Power Query Data Transformation
-### 1. Uses of Power Query
+### 1. Uses:
+Power Query is primarily used to transform and refine data from various sources, enabling users to clean, merge, and shape data into a usable format for analysis and visualization in Power BI.
 
-### 2. Data view
+### 2. Data Cleaning
+![Import Data](Alternative-Import-Methods.png)
 
-### 3. Data Cleaning
-
-### 4. Data Cleaning After & Before
 
 ## Addressing Business Challenges and Problem Statements
 
