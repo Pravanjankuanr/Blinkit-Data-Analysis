@@ -37,6 +37,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Addressing Business Challenges and Problem Statements
 
 ### 1. KPI's Requirements
+![KPI](KPI-Requirements.png)
 
 ### 2. Charts Requirements
 
