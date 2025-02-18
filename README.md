@@ -50,8 +50,7 @@ Requires four measures: Total Sales, Average Sales, Number of Items, and Average
 ## Advanced Power BI Features
 
 **Task 01: RSL(Row-level Security)**  
-Write a query to identify members with overdue books (assuming a 30-day return period). Display the member 's_id, member's name, book title, issue date, and days overdue.
-
+Row-level security (RLS) in Power BI limits data access for users based on defined filters, ensuring they only see the data they are authorized to view.     
 ```sql
 SELECT 
     ist.issued_member_id,
