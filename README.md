@@ -46,7 +46,10 @@ Requires four measures: Total Sales, Average Sales, Number of Items, and Average
 #### Average Sales: AVERAGE('BlinkIT Grocery Data'[Sales])
 #### Number of Items: COUNTROWS('BlinkIT Grocery Data')
 #### Average Ratings: COUNTROWS('BlinkIT Grocery Data')     
-![Measures](Measures.jpg)
+![Measures](Measures.jpg)    
+
+## Design and deploy interactive Cards and Charts
+
 ## Advanced Power BI Features
 
 **Task 01: RSL(Row-level Security)**  
