@@ -53,7 +53,7 @@ Requires four measures: Total Sales, Average Sales, Number of Items, and Average
 Row-level security (RLS) in Power BI limits data access for users based on defined filters, ensuring they only see the data they are authorized to view.     
 
 
-**Task 14: Schedule Refresh**  
+**Task 14: Scheduled Refresh**  
 Scheduled refresh in Power BI automatically updates your data at specified intervals, ensuring reports and dashboards display the most up-to-date information without manual intervention.    
 
 
