@@ -41,8 +41,12 @@ Power Query is primarily used to transform and refine data from various sources,
 ### 2. Charts Requirements
 
 ## Create Measures
-
-
+Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.
+![KPI](KPI-Requirements.png)
+#### Total Sales: SUM('BlinkIT Grocery Data'[Sales])
+#### Average Sales: AVERAGE('BlinkIT Grocery Data'[Sales])
+#### Number of Items: COUNTROWS('BlinkIT Grocery Data')
+#### Average Ratings: COUNTROWS('BlinkIT Grocery Data') 
 
 ## Advanced Power BI Features
 
