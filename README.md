@@ -42,7 +42,7 @@ Power Query is primarily used to transform and refine data from various sources,
 
 ## Create Measures
 Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.
-![KPI](KPI-Requirements.png)
+![KPI](Measures.jpg)
 #### Total Sales: SUM('BlinkIT Grocery Data'[Sales])
 #### Average Sales: AVERAGE('BlinkIT Grocery Data'[Sales])
 #### Number of Items: COUNTROWS('BlinkIT Grocery Data')
