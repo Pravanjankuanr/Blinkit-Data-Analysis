@@ -5,7 +5,7 @@
 **Project Title**: Blinkit Data Analysis  
 **Level**: Intermediate
 
-This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+This project showcases Blinkit Data Analysis in Power BI, including data import, cleaning, measure creation, and interactive dashboards. It also highlights advanced features like RSL and scheduled refresh, demonstrating skills in data transformation and business problem-solving.
 
 ![Blinkit Dash](Dashboard.jpg)
 
