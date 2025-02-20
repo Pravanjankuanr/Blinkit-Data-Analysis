@@ -38,7 +38,8 @@ Power Query is primarily used to transform and refine data from various sources,
 ### 1. KPI's Requirements
 ![KPI](KPI-Requirements.png)
 
-### 2. Charts Requirements
+### 2. Charts Requirements    
+![Chart](Chart-Requirements.png)
 
 ## Create Measures
 Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.
