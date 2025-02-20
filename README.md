@@ -5,7 +5,7 @@
 **Project Title**: Blinkit Data Analysis  
 **Level**: Intermediate
 
-This project showcases Blinkit Data Analysis in Power BI, including data import, cleaning, measure creation, and interactive dashboards. It also highlights advanced features like RSL and scheduled refresh, demonstrating skills in data transformation and business problem-solving.
+This project showcases Blinkit Data Analysis in Power BI, including data import, cleaning, measure creation, and interactive dashboards. It also highlights Additional features like RSL and scheduled refresh, demonstrating skills in data transformation and business problem-solving.
 
 ![Blinkit Dash](Dashboard.jpg)
 
@@ -16,7 +16,7 @@ This project showcases Blinkit Data Analysis in Power BI, including data import,
 3. **Addressing Business Challenges and Problem Statements**: Analyze and interpret the business statement to define key challenges and objectives.
 4. **Create Measures**: .
 5. **Design and deploy interactive Cards and Charts**: .
-6. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
+6. **Additional Features in Power BI**: Explore and understand advanced features in Power BI.
 
 ## Importing Data Into Power BI
 
@@ -51,7 +51,7 @@ Requires four measures: Total Sales, Average Sales, Number of Items, and Average
 
 ## Design and deploy interactive Cards and Charts
 
-## Advanced Power BI Features
+## Additional Features in Power BI
 
 **Task 01: RSL(Row-level Security)**  
 Row-level security (RLS) in Power BI limits data access for users based on defined filters, ensuring they only see the data they are authorized to view.     
