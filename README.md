@@ -51,6 +51,10 @@ Requires four measures: Total Sales, Average Sales, Number of Items, and Average
 
 ## Design and deploy interactive Cards and Charts
 
+### 1. Cards
+
+### 2. Charts
+
 ## Additional Features in Power BI
 
 **Task 01: RSL(Row-level Security)**  
