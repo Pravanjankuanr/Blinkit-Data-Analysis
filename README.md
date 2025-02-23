@@ -41,18 +41,21 @@ Power Query is primarily used to transform and refine data from various sources,
 ### 2. Charts Requirements    
 ![Chart](Chart-Requirements.png)
 
-## Create Measures
-Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.
+## Create Measures    
+**Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.**
 
 ```
-#Total Sales
-Total Sales = SUM('BlinkIT Grocery Data'[Sales])
-#Average Sales
-Average Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
-#Total Items
-Number of Items = COUNTROWS('BlinkIT Grocery Data')
-#Average Ratings
-Average Ratings = COUNTROWS('BlinkIT Grocery Data')         
+-- Create a Measure for "Total Sales"
+Total Sales = SUM('BlinkIT Grocery Data'[Sales])    
+
+-- Create a Measure for "Average Sales"
+Average Sales = AVERAGE('BlinkIT Grocery Data'[Sales])       
+
+-- Create a Measure for "Total Items"
+Number of Items = COUNTROWS('BlinkIT Grocery Data')    
+
+-- Create a Measure for "Average Ratings"
+Average Ratings = COUNTROWS('BlinkIT Grocery Data')             
 ```
 ## Design and deploy interactive Cards and Charts
 
