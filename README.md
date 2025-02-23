@@ -62,15 +62,15 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 ### 1. Cards
 ![Measures](Measures.jpg)
 ### 2. Charts
-**1. Total Sales by Fat Content**
+**Total Sales by Fat Content**
 
-**2. Total Sales by Fat Content**
+**Total Sales by Fat Content**
 
-**3. Total Sales by Fat Content**
+**Total Sales by Fat Content**
 
-**4. Total Sales by Fat Content**
+**Total Sales by Fat Content**
 
-**5. Total Sales by Fat Content**
+**Total Sales by Fat Content**
 
 ## Additional Features in Power BI
 
