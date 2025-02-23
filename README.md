@@ -45,10 +45,14 @@ Power Query is primarily used to transform and refine data from various sources,
 Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.
 
 ```
-Total Sales: SUM('BlinkIT Grocery Data'[Sales])
-Average Sales: AVERAGE('BlinkIT Grocery Data'[Sales])
-Number of Items: COUNTROWS('BlinkIT Grocery Data')
-Average Ratings: COUNTROWS('BlinkIT Grocery Data')         
+#Total Sales
+Total Sales = SUM('BlinkIT Grocery Data'[Sales])
+#Average Sales
+Average Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
+#Total Items
+Number of Items = COUNTROWS('BlinkIT Grocery Data')
+#Average Ratings
+Average Ratings = COUNTROWS('BlinkIT Grocery Data')         
 ```
 ## Design and deploy interactive Cards and Charts
 
