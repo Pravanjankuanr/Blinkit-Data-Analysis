@@ -62,11 +62,11 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 ### 1. Cards
 ![Measures](Measures.jpg)
 ### 2. Charts
-**Total Sales by Fat Content**
+**Total sales by fat content**
 
-**Total Sales by Fat Content**
+**Total sales by item type**
 
-**Total Sales by Fat Content**
+**Fat content by outlet for total sales**
 
 **Total Sales by Fat Content**
 
