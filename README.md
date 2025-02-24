@@ -74,9 +74,13 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 
 **Fat content by outlet for total sales**
 
-**Total Sales by Fat Content**
+**Total sales by outlet establishment**
 
-**Total Sales by Fat Content**
+**Sales by outlet size**
+
+**Sales by outlet location**
+
+**All metrics by outlet type**
 
 ## Additional Features in Power BI
 
