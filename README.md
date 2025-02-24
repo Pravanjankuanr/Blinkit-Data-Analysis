@@ -44,7 +44,7 @@ Power Query is primarily used to transform and refine data from various sources,
 ## Create Measures    
 **Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.**
 
-```
+```sql
 -- Create a Measure for "Total Sales"
 Total Sales = SUM('BlinkIT Grocery Data'[Sales])    
 
