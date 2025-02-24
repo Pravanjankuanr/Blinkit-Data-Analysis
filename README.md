@@ -68,55 +68,42 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 ### 1. Cards
 ![Measures](Measures.jpg)
 ### 2. Charts
-**Total sales by fat content**
+**Task 01: Total sales by fat content**    
+Analyzed sales by fat content, focusing on "Regular" and "Low Fat" categories to identify customer preferences.
 
-**Total sales by item type**
+**Task 02: Total sales by item type**
+Calculated total sales for each item type to highlight top-performing categories.
 
-**Fat content by outlet for total sales**
+**Task 03: Fat content by outlet for total sales**
+Examined fat content distribution across outlets to identify outlet-specific preferences.
 
-**Total sales by outlet establishment**
 
-**Sales by outlet size**
+**Task 04: Total sales by outlet establishment**
+Analyzed sales by outlet establishment to assess individual outlet performance.
 
-**Sales by outlet location**
 
-**All metrics by outlet type**
+**Task 05: Sales by outlet size**
+Studied sales across different outlet sizes to find correlations between size and sales volume.
+
+
+**Task 06: Sales by outlet location**
+Assessed how outlet location affects sales, revealing regional preferences.
+
+
+**Task 07: All metrics by outlet type**
+Aggregated all metrics by outlet type to understand performance trends across different outlet models.
+
 
 ## Additional Features in Power BI
 
 **Task 01: RSL(Row-level Security)**  
-Row-level security (RLS) in Power BI limits data access for users based on defined filters, ensuring they only see the data they are authorized to view.     
+Row-level security (RLS) in Power BI limits data access for users based on defined filters, ensuring they only see the data they are authorized to view.  
 
+```Modeling > Manage Roles > New > Select Table > Add Filter > Save```
 
 **Task 14: Scheduled Refresh**  
 Scheduled refresh in Power BI automatically updates your data at specified intervals, ensuring reports and dashboards display the most up-to-date information without manual intervention.    
 
-```sql
-CREATE TABLE branch_reports
-AS
-SELECT 
-    b.branch_id,
-    b.manager_id,
-    COUNT(ist.issued_id) as number_book_issued,
-    COUNT(rs.return_id) as number_of_book_return,
-    SUM(bk.rental_price) as total_revenue
-FROM issued_status as ist
-JOIN 
-employees as e
-ON e.emp_id = ist.issued_emp_id
-JOIN
-branch as b
-ON e.branch_id = b.branch_id
-LEFT JOIN
-return_status as rs
-ON rs.issued_id = ist.issued_id
-JOIN 
-books as bk
-ON ist.issued_book_isbn = bk.isbn
-GROUP BY 1, 2;
-
-SELECT * FROM branch_reports;
-```
 ## Conclusion
 
 This project demonstrated how data analysis can provide valuable insights into Blinkit's performance, helping optimize sales, inventory, and customer service. It highlighted the platform's potential for growth and improved operational efficiency.
