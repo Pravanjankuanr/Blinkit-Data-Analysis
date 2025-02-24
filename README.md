@@ -96,14 +96,14 @@ Aggregated all metrics by outlet type to understand performance trends across di
 
 ## Additional Features in Power BI
 
-**Task 01: RSL(Row-level Security)**  
+### **Task 01: RSL(Row-level Security)**  
 Row-level security (RLS) in Power BI limits data access for users based on defined filters, ensuring they only see the data they are authorized to view.  
 
 ### ```Modeling > Manage Roles > New > Select Table > Add Filter > Save```
 
-**Task 14: Scheduled Refresh**  
+## **Task 14: Scheduled Refresh**  
 Scheduled refresh in Power BI automatically updates your data at specified intervals, ensuring reports and dashboards display the most up-to-date information without manual intervention.    
-### ```Power BI Desktop > Publish to Your Workspace > Log in to Power BI Service > Workspace > Datasets > Under Scheduled Refresh > Frequency and time > Apply```
+### ```Power BI Desktop > Publish to Your Workspace > Log in to Power BI Service > Workspace > Datasets > Under Scheduled Refresh > Set frequency and time > Apply```
 
 ## Conclusion
 
