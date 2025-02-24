@@ -31,19 +31,11 @@ Power Query is primarily used to transform and refine data from various sources,
 
 ### 2. Data Cleaning
 
-``` 
-In the "Fat Content" column, there are inconsistencies in how values like "Low Fat", "low fat", "Reg" and "Regular" are recorded.
-We cleaned the data by standardizing these values into consistent categories.
-This ensured uniformity, making the data more reliable and enhancing the dashboard's overall effectiveness, enabling better analysis and decision-making.
-```
+``` In the "Fat Content" column, there are inconsistencies in how values like "Low Fat", "low fat", "Reg" and "Regular" are recorded. We cleaned the data by standardizing these values into consistent categories. This ensured uniformity, making the data more reliable and enhancing the dashboard's overall effectiveness, enabling better analysis and decision-making.```
 
 ![Before_Data_Cleaning](Before-data-cleaning.png)    
 
-``` 
-After cleaning the data, we standardized the "Fat Content" column to include only two consistent values: "Regular" and "Low Fat"
-This simplification eliminated inconsistencies and ensured that the data was uniform,
-making it more reliable and impactful for analysis and visualization in the dashboard.
-```   
+``` After cleaning the data, we standardized the "Fat Content" column to include only two consistent values: "Regular" and "Low Fat" This simplification eliminated inconsistencies and ensured that the data was uniform, making it more reliable and impactful for analysis and visualization in the dashboard.```   
 
 ![After_Data_Cleaning](After-data-cleaning.png)
 
