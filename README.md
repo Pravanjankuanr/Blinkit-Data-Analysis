@@ -30,8 +30,8 @@ This project showcases Blinkit Data Analysis in Power BI, including data import,
 Power Query is primarily used to transform and refine data from various sources, enabling users to clean, merge, and shape data into a usable format for analysis and visualization in Power BI.
 
 ### 2. Data Cleaning
-![Import Data](Alternative-Import-Methods.png)
-
+![Before_Data_Cleaning](Before-data-cleaning.png)
+![After_Data_Cleaning](After-data-cleaning.png)
 
 ## Addressing Business Challenges and Problem Statements
 
