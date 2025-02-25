@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-```**Project Title: Blinkit Data Analysis**```   
-```**Level: Intermediate**```
+####```Project Title: Blinkit Data Analysis```   
+####```Level: Intermediate```
 
 This project showcases Blinkit Data Analysis in Power BI, including data import, cleaning, measure creation, and interactive dashboards. It also highlights Additional features like RSL and scheduled refresh, demonstrating skills in data transformation and business problem-solving.
 
