@@ -71,13 +71,13 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 ### 2. Charts
 **Task 01: Sales by fat content**    
 Analyzed sales by fat content, focusing on "Regular" and "Low Fat" categories to identify customer preferences.
-![Measures](Measures.jpg)  
+![sales-by-fat-content](sales-by-fat-content.jpg)  
 **Task 02: Sales by item type**  
 Calculated total sales for each item type to highlight top-performing categories.
-![Measures](Measures.jpg)  
+![Sales-by-item-type](Sales-by-item-type.jpg)  
 **Task 03: Fat content by outlet**  
 Examined fat content distribution across outlets to identify outlet-specific preferences.
-![Measures](Measures.jpg)  
+![Fat-content-by-outlet](Fat-content-by-outlet.jpg)  
 **Task 04: Sales by outlet establishment**  
 Analyzed sales by outlet establishment to assess individual outlet performance.
 ![Measures](Measures.jpg)  
