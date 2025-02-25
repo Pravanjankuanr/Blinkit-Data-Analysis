@@ -82,21 +82,26 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 
 ![Sales-by-item-type](Sales-by-item-type.jpg)  
 
-**Task 03: Fat content by outlet**  
-Examined fat content distribution across outlets to identify outlet-specific preferences.
+#### **Task 03: Fat content by outlet**  
+##### ```Examined fat content distribution across outlets to identify outlet-specific preferences.```
 ![Fat-content-by-outlet](Fat-content-by-outlet.jpg)  
-**Task 04: Sales by outlet establishment**  
-Analyzed sales by outlet establishment to assess individual outlet performance.
-![Measures](Measures.jpg)  
-**Task 05: Sales by outlet size**  
-Studied sales across different outlet sizes to find correlations between size and sales volume.
-![Measures](Measures.jpg)  
-**Task 06: Sales by outlet location**  
-Assessed how outlet location affects sales, revealing regional preferences.
-![Measures](Measures.jpg)  
-**Task 07: Metrics by outlet type**  
-Aggregated all metrics by outlet type to understand performance trends across different outlet models.
-![Measures](Measures.jpg)  
+
+#### **Task 04: Sales by outlet establishment**  
+##### ```Analyzed sales by outlet establishment to assess individual outlet performance.```
+![Sales-by-outlet-establishment](Sales-by-outlet-establishment.jpg)    
+
+#### **Task 05: Sales by outlet size**  
+##### ```Studied sales across different outlet sizes to find correlations between size and sales volume.```
+![Sales-by-outlet-size](Sales-by-outlet-size.jpg)    
+
+#### **Task 06: Sales by outlet location**  
+##### ```Assessed how outlet location affects sales, revealing regional preferences.```
+![Sales-by-outlet-location](Sales-by-outlet-location.jpg)    
+
+#### **Task 07: Metrics by outlet type**  
+##### ```Aggregated all metrics by outlet type to understand performance trends across different outlet models.```
+![Metrics-by-outlet-type](Metrics-by-outlet-type.jpg)  
+
 ## Additional Features in Power BI
 
 ### **Task 01: RSL(Row-level Security)**  
