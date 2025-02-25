@@ -27,7 +27,7 @@ This project showcases Blinkit Data Analysis in Power BI, including data import,
 
 ## Power Query Data Transformation
 ### 1. Uses:
-Power Query is primarily used to transform and refine data from various sources, enabling users to clean, merge, and shape data into a usable format for analysis and visualization in Power BI.
+Power Query is primarily used to transform and refine data from various sources. It enables users to clean, merge, and shape data into a usable format for analysis and visualization in Power BI.
 
 ### 2. Data Cleaning
 
@@ -66,35 +66,30 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 ## Design and deploy interactive Cards and Charts
 
 ### 1. Cards
-**```Interactive cards display key metrics such as total sales, average sales, number of items, and average rating, providing clear, concise insights with customizable designs for effective data visualization.```**
+**```Interactive cards display key metrics such as total sales, average sales, number of items, and average rating, providing clear, concise insights with customizable designs for effective data visualization.```**  
 ![Measures](Measures.jpg)
 ### 2. Charts
-**Task 01: Total sales by fat content**    
+**Task 01: Sales by fat content**    
 Analyzed sales by fat content, focusing on "Regular" and "Low Fat" categories to identify customer preferences.
-
-**Task 02: Total sales by item type**
+![Measures](Measures.jpg)  
+**Task 02: Sales by item type**  
 Calculated total sales for each item type to highlight top-performing categories.
-
-**Task 03: Fat content by outlet for total sales**
+![Measures](Measures.jpg)  
+**Task 03: Fat content by outlet**  
 Examined fat content distribution across outlets to identify outlet-specific preferences.
-
-
-**Task 04: Total sales by outlet establishment**
+![Measures](Measures.jpg)  
+**Task 04: Sales by outlet establishment**  
 Analyzed sales by outlet establishment to assess individual outlet performance.
-
-
-**Task 05: Sales by outlet size**
+![Measures](Measures.jpg)  
+**Task 05: Sales by outlet size**  
 Studied sales across different outlet sizes to find correlations between size and sales volume.
-
-
-**Task 06: Sales by outlet location**
+![Measures](Measures.jpg)  
+**Task 06: Sales by outlet location**  
 Assessed how outlet location affects sales, revealing regional preferences.
-
-
-**Task 07: All metrics by outlet type**
+![Measures](Measures.jpg)  
+**Task 07: Metrics by outlet type**  
 Aggregated all metrics by outlet type to understand performance trends across different outlet models.
-
-
+![Measures](Measures.jpg)  
 ## Additional Features in Power BI
 
 ### **Task 01: RSL(Row-level Security)**  
