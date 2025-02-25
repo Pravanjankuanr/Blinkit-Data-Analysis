@@ -48,7 +48,7 @@ Power Query is primarily used to transform and refine data from various sources,
 ![Chart](Chart-Requirements.png)
 
 ## Create Measures    
-**Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.**
+**``` Requires four measures: Total Sales, Average Sales, Number of Items, and Average Ratings.```**
 
 ```sql
 -- Create a Measure for "Total Sales"
