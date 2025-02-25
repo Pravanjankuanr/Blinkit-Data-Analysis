@@ -66,6 +66,7 @@ Average Ratings = COUNTROWS('BlinkIT Grocery Data')
 ## Design and deploy interactive Cards and Charts
 
 ### 1. Cards
+**```Interactive cards display key metrics such as total sales, average sales, number of items, and average rating, providing clear, concise insights with customizable designs for effective data visualization.```**
 ![Measures](Measures.jpg)
 ### 2. Charts
 **Task 01: Total sales by fat content**    
