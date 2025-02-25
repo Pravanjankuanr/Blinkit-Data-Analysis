@@ -14,7 +14,7 @@ This project showcases Blinkit Data Analysis in Power BI, including data import,
 1. **Importing Data into Power BI**: Import Blinkit data for analysis in Power BI.
 2. **Power Query Data Transformation**: Clean and transform data using Power Query to ensure accuracy and consistency.
 3. **Addressing Business Challenges and Problem Statements**: Analyze and interpret the business statement to define key challenges and objectives.
-4. **Create Measures**: Create unique metrics to effectively track performance.
+4. **Create Measures**: Create unique metrics to track performance effectively.
 5. **Interactive Cards and Charts**: Design and implement interactive cards and charts to visualize and explore data effectively.
 6. **Additional Features in Power BI**: Explore and understand advanced features in Power BI.
 
