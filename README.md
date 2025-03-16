@@ -18,11 +18,12 @@ This project showcases Blinkit Data Analysis in Power BI, including data import,
 5. **Interactive Cards and Charts**: Design and implement interactive cards and charts to visualize and explore data effectively.
 6. **Additional Features in Power BI**: Explore and understand advanced features in Power BI.
 
-## Importing Data Into Power BI
+## Project Structure
 
-### 1. Excel Data Import: We will import data into Power BI via Excel file upload for this project.
+### Importing Data Into Power BI
+#### 1. Excel Data Import: We will import data into Power BI via Excel file upload for this project.
 ![Import Data](Excel-Data-Import.png)
-### 2. Alternative Data Import Methods: Power BI supports various data import methods, including databases, files, cloud storage, web pages, etc. 
+#### 2. Alternative Data Import Methods: Power BI supports various data import methods, including databases, files, cloud storage, web pages, etc. 
 ![Import Data](Alternative-Import-Methods.png)
 
 ## Power Query Data Transformation
